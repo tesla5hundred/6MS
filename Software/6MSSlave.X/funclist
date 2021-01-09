@@ -1,0 +1,20 @@
+_init: CODE, 373 0 51
+_transmitVoltages: CODE, 600 0 19
+__stringtab: STRING, 724 0 1
+_isr_func: CODE, 4 0 148
+_setLoadEn: CODE, 282 0 91
+_main: CODE, 170 0 102
+___lmul: CODE, 563 0 37
+_writeConfigStruct: CODE, 731 0 7
+__initialization: CODE, 154 0 14
+_saveConfig: CODE, 654 0 19
+_adConvert: CODE, 541 0 22
+_loadConfig: CODE, 446 0 17
+_readConfigStruct: CODE, 619 0 6
+_getVoltages: CODE, 463 0 78
+___wmul: CODE, 673 0 21
+_eeprom_read: CODE, 424 0 22
+_eeprom_write: CODE, 625 0 29
+_transmitData: CODE, 272 0 10
+_ADCHANNELS: STRING, 725 0 6
+Total: 700
