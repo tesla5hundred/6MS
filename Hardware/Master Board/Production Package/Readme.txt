@@ -10,11 +10,11 @@ dkronstein@krontech.ca
  
 ****ORDER INFORMATION:
 
-Quantity: 			40
+Quantity: 			10
 
 ****BOARD INFORMATION:
 Material:			FR4
-Board Dimensions		64.5mm x 42.5mm
+Board Dimensions		94mm x 42.5mm
 Number of layers		2
 Smallest hole 			0.8mm
 Largest hole			3.175mm
@@ -36,19 +36,19 @@ Note: All Gerbers are in metric units
  
 Readme.TXT 			This file
 
-Balance Board.GTL		Gerber, Top Layer
-Balance Board.GBL		Gerber, Bottom Layer
-Balance Board.GTO		Gerber, Top Ovelay silkscreen
-Balance Board.GTS		Gerber, Top Solder mask
-Balance Board.GBS		Gerber, Bottom Solder mask
-Balance Board.GTP		Gerber, Top Solder paste
-Balance Board.GBP		Gerber, Bottom Solder paste
+Local Master.GTL		Gerber, Top Layer
+Local Master.GBL		Gerber, Bottom Layer
+Local Master.GTO		Gerber, Top Ovelay silkscreen
+Local Master.GTS		Gerber, Top Solder mask
+Local Master.GBS		Gerber, Bottom Solder mask
+Local Master.GTP		Gerber, Top Solder paste
+Local Master.GBP		Gerber, Bottom Solder paste
 
-Balance Board.GM1		Gerber, Board outline routing
-Balance Board.gd1		Drill file
-Balance Board.gg1		Drill guide
+Local Master.GM1		Gerber, Board outline routing
+Local Master.gd1		Drill file
+Local Master.gg1		Drill guide
 
-Balance Board.TXT		NC Drill: Excellon drill file
+Local Master.TXT		NC Drill: Excellon drill file
 
-Pick Place for Balance Board(Three Resistors).txt
+Pick Place for Local Master(Three Resistor).txt
 				Pick and place data

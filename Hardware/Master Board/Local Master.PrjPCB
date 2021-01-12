@@ -178,29 +178,118 @@ UniqueID=83B11DA3-22D6-459A-A387-1FB41BD5DBF1
 Description=Three Resistor
 AllowFabrication=1
 ParameterCount=0
-VariationCount=21
-Variation1=Designator=R11|UniqueId=\WDRPILQA|Kind=1|AlternatePart= 
-Variation2=Designator=R12|UniqueId=\AKTMQWDC|Kind=1|AlternatePart= 
-Variation3=Designator=R13|UniqueId=\JPHWFHGL|Kind=1|AlternatePart= 
-Variation4=Designator=R28|UniqueId=\CRGXTDJQ|Kind=1|AlternatePart= 
-Variation5=Designator=R29|UniqueId=\TOYVBNGX|Kind=1|AlternatePart= 
-Variation6=Designator=R30|UniqueId=\GGMHIIBE|Kind=1|AlternatePart= 
-Variation7=Designator=R42|UniqueId=\IYTGBYXC|Kind=1|AlternatePart= 
-Variation8=Designator=R43|UniqueId=\KCWDEKUW|Kind=1|AlternatePart= 
-Variation9=Designator=R44|UniqueId=\IJSEEXAT|Kind=1|AlternatePart= 
-Variation10=Designator=R57|UniqueId=\AQYWQUPL|Kind=1|AlternatePart= 
-Variation11=Designator=R58|UniqueId=\VKRPBXSM|Kind=1|AlternatePart= 
-Variation12=Designator=R59|UniqueId=\FMCQRTBC|Kind=1|AlternatePart= 
-Variation13=Designator=R70|UniqueId=\ICFFWGSI|Kind=1|AlternatePart= 
-Variation14=Designator=R71|UniqueId=\FGQNFGEX|Kind=1|AlternatePart= 
-Variation15=Designator=R72|UniqueId=\YVRGEBJT|Kind=1|AlternatePart= 
-Variation16=Designator=R85|UniqueId=\GOPIGMSS|Kind=1|AlternatePart= 
-Variation17=Designator=R86|UniqueId=\ODXWEHJX|Kind=1|AlternatePart= 
-Variation18=Designator=R87|UniqueId=\WODBLVVH|Kind=1|AlternatePart= 
+VariationCount=22
+Variation1=Designator=R11|UniqueId=\WDRPILQA|Kind=0|AlternatePart= 
+Variation2=Designator=R12|UniqueId=\AKTMQWDC|Kind=0|AlternatePart= 
+Variation3=Designator=R13|UniqueId=\JPHWFHGL|Kind=0|AlternatePart= 
+Variation4=Designator=R28|UniqueId=\CRGXTDJQ|Kind=0|AlternatePart= 
+Variation5=Designator=R29|UniqueId=\TOYVBNGX|Kind=0|AlternatePart= 
+Variation6=Designator=R30|UniqueId=\GGMHIIBE|Kind=0|AlternatePart= 
+Variation7=Designator=R42|UniqueId=\IYTGBYXC|Kind=0|AlternatePart= 
+Variation8=Designator=R43|UniqueId=\KCWDEKUW|Kind=0|AlternatePart= 
+Variation9=Designator=R44|UniqueId=\IJSEEXAT|Kind=0|AlternatePart= 
+Variation10=Designator=R57|UniqueId=\AQYWQUPL|Kind=0|AlternatePart= 
+Variation11=Designator=R58|UniqueId=\VKRPBXSM|Kind=0|AlternatePart= 
+Variation12=Designator=R59|UniqueId=\FMCQRTBC|Kind=0|AlternatePart= 
+Variation13=Designator=R70|UniqueId=\ICFFWGSI|Kind=0|AlternatePart= 
+Variation14=Designator=R71|UniqueId=\FGQNFGEX|Kind=0|AlternatePart= 
+Variation15=Designator=R72|UniqueId=\YVRGEBJT|Kind=0|AlternatePart= 
+Variation16=Designator=R85|UniqueId=\GOPIGMSS|Kind=0|AlternatePart= 
+Variation17=Designator=R86|UniqueId=\ODXWEHJX|Kind=0|AlternatePart= 
+Variation18=Designator=R87|UniqueId=\WODBLVVH|Kind=0|AlternatePart= 
 Variation19=Designator=X1|UniqueId=\QQLTFFRE|Kind=1|AlternatePart= 
 Variation20=Designator=J9|UniqueId=\YJJCQXNO|Kind=1|AlternatePart= 
 Variation21=Designator=J8|UniqueId=\UBEBXVBG|Kind=1|AlternatePart= 
+Variation22=Designator=Q12|UniqueId=\TTMXZUTD|Kind=0|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=ProjectOutputs\BOM\Bill of Materials-Local Master(Three Resistor).xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ProjectOutputs\Design Rule Check - Local Master.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProjectOutputs\PCB Fab\NC Drill\Local Master.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=ProjectOutputs\PCB Fab\NC Drill\Local Master.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=ProjectOutputs\PCB Fab\Gerber\Local Master.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ProjectOutputs\PCB Fab\NC Drill\Local Master.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ProjectOutputs\PCB Fab\Pick Place\Pick Place for Local Master(Three Resistor).txt
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
